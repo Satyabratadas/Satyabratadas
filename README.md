@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyabrata Das
 - 👀 I’m interested in machine learning , Ios Development
-- 🌱 I’m currently learning Ios Development
+- 🌱 I’m currently working on  Ios Development
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
