@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Satyabrata Das
-- 👀 I’m interested in machine learning , Ios Development
-- 🌱 I’m currently working on  Ios Development
+👋 Hi, I’m Satyabrata Das  
+👀 I’m a Machine Learning enthusiast and I see myself as a future AI Engineer  
+💻 I have 2 years of experience as an iOS Developer  
+🎓 I’m currently pursuing my Master’s in Artificial Intelligence Systems at the University of Florida
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
