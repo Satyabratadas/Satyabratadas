@@ -1,8 +1,3 @@
-<!---👋 Hi, I’m Satyabrata Das  
-👀 I’m a Machine Learning enthusiast and I see myself as a future AI Engineer  
-💻 I have 2 years of experience as an iOS Developer  
-🎓 I’m currently pursuing my Master’s in Artificial Intelligence Systems at the University of Florida
---->
 
 👋 Hi, I’m Satyabrata Das
 👨‍💻 Software Engineer | 🎓 MS in Artificial Intelligence (in progress)
