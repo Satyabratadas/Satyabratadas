@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Satyabrata Das
+👋 Hi, I’m Satyabrata
 👨‍💻 Software Engineer | 🎓 MS in Artificial Intelligence (in progress)
 
  -  👀 I’m a Machine Learning enthusiast and see myself as a future AI Engineer.
