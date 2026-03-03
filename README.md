@@ -152,9 +152,9 @@ Markdown
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2EA043&icon_color=2EA043&text_color=a1a1aa&count_private=true&include_all_commits=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2EA043&icon_color=2EA043&text_color=a1a1aa&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=2EA043&text_color=a1a1aa&count_private=true&hide=jupyter%20notebook&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=2EA043&text_color=a1a1aa&count_private=true&langs_count=10" height="180"/>
 </p>
 
 <p align="center">
