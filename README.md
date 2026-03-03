@@ -1,33 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=140&section=header&text=Satyabrata%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=140&section=header&text=Satyabrata%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Satyabratadas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=MS+in+AI+Systems+%40+University+of+Florida;Software+Engineer+%7C+Ex-iOS+Developer+(2.5%2B+yrs);Machine+Learning+%26+Computer+Vision+Enthusiast;Python+%7C+Swift+%7C+SQL+%7C+ETL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=720&lines=MS+in+AI+Systems+%40+University+of+Florida;Software+Engineer+%7C+Ex-iOS+Developer+(2.5%2B+yrs);Machine+Learning+%26+Computer+Vision+Enthusiast;Python+%7C+Swift+%7C+SQL+%7C+ETL" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Satyabratadas">
-    <img src="https://img.shields.io/github/followers/Satyabratadas?logo=github&style=for-the-badge&color=6C63FF&labelColor=0d1117&logoColor=6C63FF" />
+    <img src="https://img.shields.io/github/followers/Satyabratadas?logo=github&style=for-the-badge&color=00FF41&labelColor=0d1117&logoColor=00FF41" />
   </a>
   <a href="https://www.linkedin.com/in/satyabrata-lm10/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6C63FF" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>
   <a href="https://twitter.com/Satya24818791">
-    <img src="https://img.shields.io/badge/-Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=6C63FF" />
+    <img src="https://img.shields.io/badge/-Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41" />
   </a>
   <a href="https://leetcode.com/Satyabratadas10/">
-    <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=6C63FF" />
+    <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FF41" />
   </a>
   <a href="https://satyabratadas.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=6C63FF" />
+    <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=00FF41" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyabratadas&style=flat-square&color=6C63FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Satyabratadas&style=flat-square&color=00FF41&label=Profile+Views" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ I apply these core principles to my Machine Learning and Computer Vision project
 **Backend & Architecture**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-6C63FF?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-00FF41?style=for-the-badge&logo=architecture&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
@@ -111,13 +111,13 @@ I apply these core principles to my Machine Learning and Computer Vision project
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=a1a1aa&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=a1a1aa&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=a1a1aa&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=a1a1aa&count_private=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satyabratadas&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
+  <img src="https://streak-stats.demolab.com/?user=Satyabratadas&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
 </p>
 
 ### 🗺️ 3D Contribution Graph
@@ -134,6 +134,14 @@ I apply these core principles to my Machine Learning and Computer Vision project
   </picture>
 </p>
 
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+</p> -->
+
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=100&section=footer" />
+</p>
+<p align="center">
+  <b>Gainesville, Florida, USA</b> · <a href="mailto:satyabradas@ufl.edu">satyabradas@ufl.edu</a> · +1 786 636 5501 ·
 </p>
