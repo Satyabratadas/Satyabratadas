@@ -36,36 +36,17 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a Software Engineer and M.S. student in Artificial Intelligence Systems at the University of Florida, focused on building intelligent, production-ready systems that bridge machine learning and real-world applications.
+I am a **Software Engineer** and **MS in AI Systems student at the University of Florida**, specializing in the development of high-performance, production-grade Machine Learning and Computer Vision systems.
 
-With 2.5+ years of experience as an iOS developer at ARC Document Solutions, I built secure, high-performance mobile applications featuring:
+With **2.5+ years of professional engineering experience**, I have transitioned from architecting complex distributed systems to focusing on the full-lifecycle engineering of **Intelligent Systems**. I treat model development as more than just an academic exercise; I focus on the engineering required to move a model from a research notebook into a robust, scalable, and real-time environment.
 
-- Real-time collaboration systems (WebSocket-based updates)
-- Wi-Fi security analysis tools
-- Reliable payment and checkout workflows in production environments
-  
-That foundation in performance, system reliability, and architecture now drives my work in AI/ML engineering.
-
-### 🚀 Current Focus
-
-I design and build end-to-end intelligent systems — from model training to deployment.
-
-My recent work includes:
-
-- 🧠 Deep Learning model development using PyTorch
-- 👁️ Computer Vision pipelines (pose estimation, object detection, real-time inference)
-- ⚙️ ML system integration (model → API → frontend)
-- 📊 Applied AI projects that transform research concepts into usable tools
-
-I’m particularly interested in:
-
-- Machine Learning Engineering
-- Real-time AI systems
-- AI robustness & scalable system design
-- Computer Vision applications
+### 🧪 Technical Focus
+- **Computer Vision (CV)**: Architecting real-time inference pipelines using **YOLO and MediaPipe** for high-frequency spatial tracking and object detection.
+- **ML Engineering (MLE)**: Designing end-to-end pipelines that bridge the gap between model training in **PyTorch** and high-throughput, low-latency deployment.
+- **System Reliability**: Leveraging a deep background in low-latency communication and secure infrastructures to build AI systems that are both performant and reliable under production loads.
 
 ### 🧠 Mathematical Foundations in AI
-I apply these core principles to my Machine Learning and Computer Vision projects:
+idge the gap between theory and implementation by applying core mathematical principles to my engineering workflows:
 
 * **Optimization:** Minimizing loss functions via Gradient Descent:
   $$\theta_{t+1} = \theta_t - \eta \nabla J(\theta_t)$$
