@@ -27,6 +27,9 @@
   <a href="https://satyabratadas.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=57F287" />
   </a>
+  <a href="https://devpost.com/satyabratadas996">
+  <img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
