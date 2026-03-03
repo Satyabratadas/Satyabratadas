@@ -33,7 +33,33 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Software Engineer** and **MS in Artificial Intelligence Systems** student at the **University of Florida**, passionate about building intelligent systems that solve real-world problems. With **2.5+ years of iOS development** experience at **ARC Document Solutions**, I bring a blend of engineering discipline and applied AI/ML skills to everything I build.
+I’m a Software Engineer and M.S. student in Artificial Intelligence Systems at the University of Florida, focused on building intelligent, production-ready systems that bridge machine learning and real-world applications.
+
+With 2.5+ years of experience as an iOS developer at ARC Document Solutions, I built secure, high-performance mobile applications featuring:
+
+- Real-time collaboration systems (WebSocket-based updates)
+- Wi-Fi security analysis tools
+- Reliable payment and checkout workflows in production environments
+  
+That foundation in performance, system reliability, and architecture now drives my work in AI/ML engineering.
+
+### 🚀 Current Focus
+
+I design and build end-to-end intelligent systems — from model training to deployment.
+
+My recent work includes:
+
+- 🧠 Deep Learning model development using PyTorch
+- 👁️ Computer Vision pipelines (pose estimation, object detection, real-time inference)
+- ⚙️ ML system integration (model → API → frontend)
+- 📊 Applied AI projects that transform research concepts into usable tools
+
+I’m particularly interested in:
+
+- Machine Learning Engineering
+- Real-time AI systems
+- AI robustness & scalable system design
+- Computer Vision applications
 
 ### 🧠 Mathematical Foundations in AI
 I apply these core principles to my Machine Learning and Computer Vision projects:
