@@ -15,11 +15,14 @@
   <a href="https://www.linkedin.com/in/satyabrata-lm10/">
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=57F287" />
   </a>
-  <a href="https://twitter.com/Satya24818791">
-    <img src="https://img.shields.io/badge/-Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=57F287" />
+  <a href="https://www.kaggle.com/satyabratadas10">
+    <img src="https://img.shields.io/badge/-Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=57F287" />
   </a>
   <a href="https://leetcode.com/Satyabratadas10/">
     <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=57F287" />
+  </a>
+  <a href="https://twitter.com/Satya24818791">
+    <img src="https://img.shields.io/badge/-Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=57F287" />
   </a>
   <a href="https://satyabratadas.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=57F287" />
