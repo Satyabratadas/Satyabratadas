@@ -1,18 +1,139 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=140&section=header&text=Satyabrata%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=68" />
+</p>
 
-👋 Hi, I’m Satyabrata
-👨‍💻 Software Engineer | 🎓 MS in Artificial Intelligence (in progress)
+<p align="center">
+  <a href="https://github.com/Satyabratadas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=MS+in+AI+Systems+%40+University+of+Florida;Software+Engineer+%7C+Ex-iOS+Developer+(2.5%2B+yrs);Machine+Learning+%26+Computer+Vision+Enthusiast;Python+%7C+Swift+%7C+SQL+%7C+ETL" alt="Typing SVG" />
+  </a>
+</p>
 
- -  👀 I’m a Machine Learning enthusiast and see myself as a future AI Engineer.
- -  💻 I have 2 years of experience as an iOS Developer.
- -  🎓 Currently pursuing my Master’s in Artificial Intelligence Systems at the University of Florida.
- -  🏢 Former Software Engineer at ARC Document Solutions India Pvt. Ltd.
- -  🎓 B.Tech in Computer Science from Guru Nanak Institute of Technology.
- -  🔬 Passionate about Machine Learning, Computer Vision, and Natural Language Processing.
+<p align="center">
+  <a href="https://github.com/Satyabratadas">
+    <img src="https://img.shields.io/github/followers/Satyabratadas?logo=github&style=for-the-badge&color=6C63FF&labelColor=0d1117&logoColor=6C63FF" />
+  </a>
+  <a href="https://www.linkedin.com/in/satyabrata-lm10/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6C63FF" />
+  </a>
+  <a href="https://twitter.com/Satya24818791">
+    <img src="https://img.shields.io/badge/-Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=6C63FF" />
+  </a>
+  <a href="https://leetcode.com/Satyabratadas10/">
+    <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=6C63FF" />
+  </a>
+  <a href="https://satyabratadas.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=6C63FF" />
+  </a>
+</p>
 
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyabratadas&style=flat-square&color=6C63FF&label=Profile+Views" />
+</p>
 
-<!---
-Satyabratadas/Satyabratadas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me
+I'm a **Software Engineer** and **MS in Artificial Intelligence Systems** student at the **University of Florida**, passionate about building intelligent systems that solve real-world problems. With **2.5+ years of iOS development** experience at **ARC Document Solutions**, I bring a blend of engineering discipline and applied AI/ML skills to everything I build.
+
+### 🧠 Mathematical Foundations in AI
+I apply these core principles to my Machine Learning and Computer Vision projects:
+
+* **Optimization:** Minimizing loss functions via Gradient Descent:
+  $$\theta_{t+1} = \theta_t - \eta \nabla J(\theta_t)$$
+
+* **Neural Networks:** Computing layer activations:
+  $$a^{(l)} = \sigma(W^{(l)}a^{(l-1)} + b^{(l)})$$
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,swift,js,cpp,latex,bash&theme=dark" />
+</p>
+
+**AI / ML / Data Science**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFA000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+**Mobile & Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,html,css,react,js&theme=dark" />
+</p>
+
+**Backend & Architecture**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-6C63FF?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+**DevOps & Environment**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🧠 SummarIQ** | AI-powered PDF summarizer for scientific papers | Python, NLP, LLM |
+| **🚢 Ship Detection** | Ship detection from satellite imagery | Python, PyTorch, CV |
+| **🏥 Health Management** | Comprehensive health tracking & management system | Python |
+| **🌦️ Weather Clima** | iOS weather app featuring live data integration | Swift |
+| **🛡️ WiProtect** | iOS app to assess Wi-Fi security (WPA/WPA2/WPA3) | Swift |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=a1a1aa&count_private=true&include_all_commits=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=a1a1aa&count_private=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Satyabratadas&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
+</p>
+
+### 🗺️ 3D Contribution Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyabratadas/Satyabratadas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyabratadas/Satyabratadas/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Satyabratadas/Satyabratadas/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+</p>
