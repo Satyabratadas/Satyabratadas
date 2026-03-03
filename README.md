@@ -49,8 +49,13 @@ I apply these core principles to my Machine Learning and Computer Vision project
 ### 🛠️ Tech Arsenal
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,swift,js,cpp,latex,bash&theme=dark" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 **AI / ML / Data Science**
@@ -65,8 +70,16 @@ I apply these core principles to my Machine Learning and Computer Vision project
 </p>
 
 **Mobile & Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=swift,html,css,react,js&theme=dark" />
+<p align="left">
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-1572B6?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core_Data-5856D6?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 **Backend & Architecture**
@@ -78,7 +91,8 @@ I apply these core principles to my Machine Learning and Computer Vision project
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 **DevOps & Environment**
@@ -100,9 +114,9 @@ I apply these core principles to my Machine Learning and Computer Vision project
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **⚽ JuggleIQ**| Real-time soccer juggling tracker using advanced Pose Estimation. | Python, OpenCV, YOLO, MediaPipe |
 | **🧠 SummarIQ** | AI-powered PDF summarizer for scientific papers | Python, NLP, LLM |
 | **🚢 Ship Detection** | Ship detection from satellite imagery | Python, PyTorch, CV |
-| **🏥 Health Management** | Comprehensive health tracking & management system | Python |
 | **🌦️ Weather Clima** | iOS weather app featuring live data integration | Swift |
 | **🛡️ WiProtect** | iOS app to assess Wi-Fi security (WPA/WPA2/WPA3) | Swift |
 
@@ -118,13 +132,13 @@ I apply these core principles to my Machine Learning and Computer Vision project
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=57F287&icon_color=57F287&text_color=a1a1aa&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyabratadas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2EA043&icon_color=2EA043&text_color=a1a1aa&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=57F287&text_color=a1a1aa&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyabratadas&layout=compact&hide_border=true&bg_color=0d1117&title_color=2EA043&text_color=a1a1aa&count_private=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satyabratadas&hide_border=true&background=0d1117&ring=57F287&fire=57F287&currStreakLabel=57F287&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
+  <img src="https://streak-stats.demolab.com/?user=Satyabratadas&hide_border=true&background=0d1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=a1a1aa&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=a1a1aa" />
 </p>
 
 ---
