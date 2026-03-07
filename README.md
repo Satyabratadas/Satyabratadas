@@ -61,11 +61,6 @@ idge the gap between theory and implementation by applying core mathematical pri
 
 ### 🛠️ Tech Arsenal
 
-Here is the clean, optimized code ready for your GitHub README.md. I have polished the alignments and grouped the logic so it looks professional and balanced on both desktop and mobile views.
-
-Markdown
-### 🛠️ Tech Arsenal
-
 **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
