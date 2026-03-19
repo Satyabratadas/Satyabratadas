@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/Satyabratadas10/">
     <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=57F287" />
   </a>
-  <a href="https://twitter.com/Satya24818791">
+  <a href="https://x.com/Satyabrata_13">
     <img src="https://img.shields.io/badge/-Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=57F287" />
   </a>
   <a href="https://satyabratadas.github.io/">
