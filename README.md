@@ -29,7 +29,10 @@
   </a>
   <a href="https://devpost.com/satyabratadas996">
   <img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
-</a>
+  </a>
+  <a href="https://www.hackerrank.com/profile/dassatyabrata557">
+  <img src="https://img.shields.io/badge/-HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=57F287" />
+  </a>
 </p>
 
 <p align="center">
