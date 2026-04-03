@@ -138,7 +138,6 @@ idge the gap between theory and implementation by applying core mathematical pri
 | **🌦️ Weather Clima** | iOS weather app featuring live data integration | Swift |
 | **🛡️ WiProtect** | iOS app to assess Wi-Fi security (WPA/WPA2/WPA3) | Swift |
 
-<!--
 ---
 
 ### 🗺️ 3D Contribution Graph
@@ -172,7 +171,6 @@ idge the gap between theory and implementation by applying core mathematical pri
 </p>
 
 ---
--->
 
 <!-- Footer Banner -->
 <p align="center">
