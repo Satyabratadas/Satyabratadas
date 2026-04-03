@@ -41,7 +41,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
     paths-ignore:
       - "profile-3d-contrib/**"
 
@@ -71,5 +71,5 @@ jobs:
           git add -A .
           git diff --cached --quiet && exit 0
           git commit -m "update 3d contribution graph and build readme"
-          git pull --rebase origin main
+          git pull --rebase origin master
           git push
