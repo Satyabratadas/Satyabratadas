@@ -1,76 +1,35 @@
-# name: Generate 3D Contribution Graph
-
-# on:
-#   schedule:
-#     - cron: "0 0 * * *"
-#   push:
-#     branches:
-#       - master
-#   workflow_dispatch:
-
-# env:
-#   ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     name: Generate 3D Contribution Graph
-
-#     steps:
-#       - uses: actions/checkout@v4
-
-#       - name: Generate 3D graph
-#         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#           USERNAME: Satyabratadas
-#           THEME: rainbow
-
-#       - name: Commit & Push changes
-#         run: |
-#           git config --local user.email "action@github.com"
-#           git config --local user.name "GitHub Action"
-#           git add -A
-#           git diff --staged --quiet || git commit -m "chore: auto-update 3D contribution graph"
-#           git push
-
 name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"
   push:
     branches:
       - master
-    paths-ignore:
-      - "profile-3d-contrib/**"
+  workflow_dispatch:
 
-permissions:
-  contents: write
-
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
 
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # USERNAME: ${{ github.repository_owner }}
           USERNAME: Satyabratadas
           THEME: rainbow
 
-      - name: Build README from template
-        run: python build_profile.py
-
-      - name: Commit & Push
+      - name: Commit & Push changes
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A .
-          git diff --cached --quiet && exit 0
-          git commit -m "update 3d contribution graph and build readme"
-          git pull --rebase origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: auto-update 3D contribution graph"
           git push
+
